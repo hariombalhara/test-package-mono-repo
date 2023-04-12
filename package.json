@@ -1,0 +1,9 @@
+{
+  "name": "monrepo-test",
+  "packageManager": "yarn@3.5.0",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ]
+}

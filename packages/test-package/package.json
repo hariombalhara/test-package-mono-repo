@@ -1,0 +1,11 @@
+{
+	"name": "test-package-test-87",
+	"packageManager": "yarn@3.5.0",
+	"version": "1.0.4",
+	"scripts": {
+		"prepack": "mkdir -p prepareddd"
+	},
+	"devDependencies": {
+		"@changesets/cli": "^2.26.1"
+	}
+}
